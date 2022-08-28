@@ -14,6 +14,9 @@ In order to get the full usage of the information that this website has to offer
 
 ![alt text](assets/images/screenshot.png)
 
+![alt text](assets/images/screenshot2.png)
+
+
 ## Credits
 
 The completion of this project was aided by the efforts and assets of the rutgers computer science bootcamp. The lessons and challenges from the advanced css portion of the class served as a backbone for the construction of this project.
