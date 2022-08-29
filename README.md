@@ -15,6 +15,10 @@ In order to get the full usage of the information that this website has to offer
 ![alt text](assets/images/screenshot.png)
 
 ![alt text](assets/images/screenshot2.png)
+<<<<<<< HEAD
+=======
+
+>>>>>>> 2a5837aaceea0e9ccc9a78473319218b9afae8a0
 
 ## Credits
 
