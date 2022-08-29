@@ -13,6 +13,7 @@ This project requires no installation for usage rather than opening the website 
 In order to get the full usage of the information that this website has to offer, it is imperative to use the header links to navigate through the About Me, Work, and Contact sections of this website. These are the sections that contain the information relevant to any viewers of the website that wish to get a full understanding of myself as a person and a developer. In the work section, the screenshots of the projects can be clicked on and used to traverse to separate webpages that contain the projects. After this, using the resume and linkedin hyperlinks, any viewers can leave my website and find my resume and linkedin, completing their journey through my portfolio.
 
 ![alt text](assets/images/screenshot.png)
+
 ![alt text](assets/images/screenshot2.png)
 
 ## Credits
